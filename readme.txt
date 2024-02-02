@@ -4,3 +4,9 @@
 this is a text file that I made for the first time
 I am going to make a lots of programs from now on.
 what a awesome world!!
+<<<<<<< HEAD
+=======
+
+
+nice, very nice!!!
+>>>>>>> 87ea838 (add)
